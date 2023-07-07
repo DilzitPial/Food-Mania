@@ -1,0 +1,29 @@
+.tial,.you,.bold {
+    background-color: aqua;
+}
+
+.bold{
+    font-weight: 900;
+}
+#third,.tial{
+   background-color: burlywood;
+   
+   font-size: 30px;
+}
+#third{
+    border: 10px solid brown;
+    border-radius: 10px;
+    padding: 10px;
+}
+span{
+    color: antiquewhite;
+} 
+.tial{
+    margin: 50px 20px 100px 5px;
+    border: 10px solid rgb(3, 78, 163);
+    border-radius: 20px;
+    padding: 30px;
+    text-align: justify;
+    padding-top: 80px;
+
+}

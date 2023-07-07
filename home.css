@@ -1,0 +1,37 @@
+body {
+    background-image: url('Hong-Kong-Dim-sum.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 500%;
+    font-style: italic;
+    font-family: 'Trebuchet MS';
+}
+
+p {
+    color: antiquewhite;
+    width: 30%;
+    background-color: rgba(0, 0, 0, 0.562);
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.tial{
+    background: none;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+input {
+    padding: 3px;
+}
+a {
+    color: #ffffff;
+    font-size: xx-large;
+}
